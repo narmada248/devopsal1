@@ -1,7 +1,4 @@
-hii
-hiii
-hii
-first
-hii
-fitst
-second
+hii 
+second 
+bye
+
